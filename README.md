@@ -1,18 +1,17 @@
-# Project Name
+# Final Project
 
-A brief description of what this project does and its main purpose.
+An Embedded AI solution developed for the project requirements.
 
-## Project Details
+## 📌 Project Details
 
-- **Project Name:** [Your Project Name]
-- **Author:** Khanh Huyen
-- **Repository:** [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
+- **Project Name:** Final Project
+- **Repository Name:** oaqjp-final-project-emb-ai
 
-## Getting Started
+## 🚀 Getting Started
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.comHannahnguyen502/oaqjp-final-project-emb-ai.git](https://github.com/Hannahnguyen502/oaqjp-final-project-emb-ai.git)
 
 # Navigate into the project directory
-cd your-repo-name
+cd oaqjp-final-project-emb-ai
